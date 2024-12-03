@@ -13,7 +13,7 @@ In order for the project to be considered "completed", it must complete the foll
 
 ## Example
 
-See the following source code [here](https://github.com/catherinel04/Pokedex/tree/main).
+See the following source code [here](https://github.com/catherinel04/Pokedex/tree/main) for an example that achieves the goals of this project!
 <img width="700" alt="Screen Shot 2024-12-03 at 1 55 08 PM" src="https://github.com/user-attachments/assets/0f0764e7-d5ac-4b58-9fe4-2f9560598fb2">
 
 
@@ -30,9 +30,6 @@ It may take Learning Ambassadors up to 1-2 weeks to grade your solution and give
 
 See something in the docs that is unclear or think that this level 3 could use any more requirements? Please create a PR that follows the `open-src.md` template and we will get back to you!
 
-<a href="https://contrib.rocks">
-  <img src="https://contrib.rocks/image?repo=BU-Spark-Learning-Ambassadors/paths-level3-template" />
-</a>
 
 <!-- PUT GOLD BADGE OF SKILL HERE -->
 <!-- <div style="display: flex; align-items: center; justify-content: center;">
