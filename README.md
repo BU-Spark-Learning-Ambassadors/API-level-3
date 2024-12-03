@@ -14,7 +14,7 @@ In order for the project to be considered "completed", it must complete the foll
 ## Example
 
 See the following source code [here](https://github.com/catherinel04/Pokedex/tree/main).
-<img width="1004" alt="Screen Shot 2024-12-03 at 1 55 08 PM" src="https://github.com/user-attachments/assets/0f0764e7-d5ac-4b58-9fe4-2f9560598fb2">
+<img width="700" alt="Screen Shot 2024-12-03 at 1 55 08 PM" src="https://github.com/user-attachments/assets/0f0764e7-d5ac-4b58-9fe4-2f9560598fb2">
 
 
 
