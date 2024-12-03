@@ -11,6 +11,10 @@ In order for the project to be considered "completed", it must complete the foll
 2. **< Req 2 Name >:** displays data of your choice from the table in the frontend portion of your app
 3. **< Req 3 Name >:** hides all API Keys and secrets in a `.env` file and uses a `.gitignore` to prevent all unneccessary files from being added to the GitHub Repository
 
+## Example
+
+See the following source code [here](https://github.com/catherinel04/Pokedex/tree/main).
+
 ## Submission
 
 All code must be submitted as a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) following the PR template that will autogenerate when a PR is made
