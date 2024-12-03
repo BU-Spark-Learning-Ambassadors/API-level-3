@@ -19,8 +19,9 @@ See the following source code [here](https://github.com/catherinel04/Pokedex/tre
 <img width="700" alt="Screen Shot 2024-12-03 at 1 55 08 PM" src="https://github.com/user-attachments/assets/0f0764e7-d5ac-4b58-9fe4-2f9560598fb2">
 
 
-
-
+## Tips
+- Find a list of free APIs to use [here](https://free-apis.github.io/#/)!
+- Examine the results of the API before developing
 
 ## Submission
 
